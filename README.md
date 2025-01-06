@@ -1,3 +1,3 @@
-Loan Approval Classification
+Loan Approval Classification in Python
 
-Prediction of loan approval based on loan data in Python
+Prediction of loan approval based on loan data
